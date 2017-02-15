@@ -1,0 +1,80 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: black;
+  font-family: "Century Gothic";
+  font-size: 1.2em;
+  color: #ffffff
+}
+
+a {
+  color: #ff0000;
+    
+}
+nav ul
+{
+  border-top: solid white 1px;
+  border-bottom: solid white 1px;
+  border-radius: 2px;
+  clear: left;
+}
+nav ul li
+{
+  list-style-type: none;
+  display: inline-block;
+  text-align: center;
+  padding: 20px;
+}
+nav ul li a
+{
+    text-decoration: none;
+    color: #ff0000;
+    font-size: 1.5em;
+    
+}
+
+.logo {
+  width : 30px;
+  height: 30px;
+}
+
+ul li{
+  list-style-type: none;
+  display: inline;
+  text-align: center
+}
+#clear,#send, form ,fieldset
+{
+  text-align: center;
+  font-size: 1.2em;
+  color: #ffffff;
+}
+#clear,#send,legend
+{
+  padding: 20px;
+  color: red;
+  border-radius: 2.5px;
+}
+textarea,#name,#email
+{
+  padding: 10px;
+  border-radius: 2.5px;
+  text-align: center;
+}
+input,textarea
+{
+  color: #000000;
+}
+#clear:hover,#send:hover
+{
+  padding: 20px;
+  color: black;
+}
+.footicon
+{
+  list-style: none;
+  text-decoration:none;
+  display: inline-block;  
+  float:right;
+  position: relative;
+}
