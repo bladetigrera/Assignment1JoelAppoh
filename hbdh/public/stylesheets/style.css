@@ -109,12 +109,12 @@ footer
 }
 #servicebox
 {
-  width: 300px;
+  width: 720px;
   margin: 0 auto;
 }
 .service
 {
   width: 200px;
   float: left;
-  padding-bottom: 20px;
+  padding: 20px;
 }
