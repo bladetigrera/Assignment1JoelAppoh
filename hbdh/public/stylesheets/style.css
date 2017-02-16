@@ -6,7 +6,10 @@ body {
   font-size: 1.2em;
   color: #ffffff
 }
-
+h1,h3,p
+{
+  text-align: center;
+}
 a {
   color: #ff0000;
     
