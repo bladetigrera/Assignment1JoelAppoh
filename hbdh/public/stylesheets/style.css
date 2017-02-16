@@ -108,3 +108,9 @@ footer
   padding-bottom: 20px;
  
 }
+.service,#3D,#ps,#web
+{
+  width: 300px;
+  float: left;
+  padding-bottom: 20px;
+}
