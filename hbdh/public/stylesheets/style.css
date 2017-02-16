@@ -83,11 +83,28 @@ input,textarea
   padding: 20px;
   color: black;
 }
+footer
+{
+  clear: left;
+}
 .footicon
 {
   list-style: none;
   text-decoration:none;
   display: inline-block;  
-  float:right;
+  float: right;
   position: relative;
+}
+#samplebox
+{
+  width: 900px;
+  margin: 0 auto;
+  
+}
+.sample,#dig,#bird,#toys
+{
+  width: 300px;
+  float: left;
+  padding-bottom: 20px;
+ 
 }
